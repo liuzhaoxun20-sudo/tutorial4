@@ -16,4 +16,5 @@ public class CalcTest {
         // 这个测试会失败，因为 subtract 方法还没有实现
         assertEquals(2, c.subtract(4, 2));
     }
+
 }
